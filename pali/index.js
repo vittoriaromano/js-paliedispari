@@ -59,13 +59,10 @@ function isPali(input){
      }
 }
  
-
-
 //main
 
 // const parola = prompt('inserisci parola');
 const defaultTesto = 'osso';
-
 
 
 console.log(isPali(defaultTesto));
@@ -84,8 +81,6 @@ if(isPali('giacomino')){
 } else{
     console.log('giacomino is non is pali');
 }
-
-
 
 // isPali(parola); //vero falso
 // isPali('testo'); //vero falso
