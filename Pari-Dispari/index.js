@@ -24,7 +24,7 @@ console.log(numeroRandom);
 let somma = sommaNumeri(number, numeroRandom);
 console.log(somma);
 
-//se pari=pari Win, se dispari=dispari Win altrimenti hai perso
+//se pari=pari Win, se dispari=dispari Win altrimenti hai perso 
  const sommaPari ='';
  const sommaDispari ='';
 
